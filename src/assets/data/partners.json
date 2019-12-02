@@ -1,18 +1,34 @@
 [
+
+    {
+        "name":"Google",
+        "link":"https://www.google.com/",
+        "img":"google.png"
+    },
     {
         "name":"GDG",
         "link":"https://developers.google.com/groups",
         "img":"gdglogo.png"
     },
     {
-        "name":"WomenTechmakers",
-        "link":"https://www.womentechmakers.com/",
-        "img":"wtm.png"
+        "name":"JetBrains",
+        "link":"https://www.jetbrains.com/",
+        "img":"jetbrains.png"
     },
     {
-        "name":"GDG[x]",
-        "link":"https://github.com/gdg-x",
-        "img":"gdg-x.svg"
+        "name":"Postman",
+        "link":"https://www.getpostman.com/",
+        "img":"pm-logo-vert.jpg"
+    },
+    {
+        "name":"Github",
+        "link":"https://www.github.com/",
+        "img":"Octocat.png"
+    },
+    {
+        "name":"WomenTech Makers",
+        "link":"https://www.WomenTechMakers.com/",
+        "img":"wtm.png"
     }
 
 ]

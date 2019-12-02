@@ -1,47 +1,38 @@
 [
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
+        "name":"Neel Kirit",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/neelkirit",
+        "linkedin":"https://www.linkedin.com/in/neelkirit/",
+        "github":"https://github.com/neelkirit",
+        "profileImage":"Neel.jpg",
+        "website":"https://neelkirit.github.io/"
     },
     {
-        "name":"Name",
-        "designation":"Management",
+        "name":"Sarang Narkhede",
+        "designation":"Co-Organizer",
+        "twitter":"https://twitter.com/narkhede_sarang",
+        "linkedin":"https://www.linkedin.com/in/narkhedesarang/",
+        "github":"https://github.com/thesarang",
+        "profileImage":"Sarang.jpg",
+        "website":"https://cs.rit.edu/~sn7330/"
+    },
+    {
+        "name":"Ishika Prasad",
+        "designation":"WTM Ambassador | Co-Organizer",
+        "twitter":"https://twitter.com/i_ishikaprasad",
+        "linkedin":"https://www.linkedin.com/in/ishika-prasad/",
+        "github":"https://github.com/ishika-prasad",
+        "profileImage":"Ishika.jpeg",
+        "website":"https://ishika-prasad.github.io/"
+    },
+    {
+        "name":"Nabiha Raza",
+        "designation":"WTM Ambassador | Co-Organizer",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
+        "linkedin":"https://www.linkedin.com/in/nabiha-raza/",
+        "github":"https://github.com/nabiharaza",
+        "profileImage":"nr.jpeg",
+        "website":"https://cs.rit.edu/~nr6024"
     }
 ]

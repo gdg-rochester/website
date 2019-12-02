@@ -1,21 +1,20 @@
 {
-    "FeatureEventName":"IWD'19 Jalandhar",
-    "EventImage":"IWD.jpg",
+    "FeatureEventName":"GDG DevFest'19 Rochester",
+    "EventImage":"DevFest.png",
     "EventDate":{
-        "Date":"31",
-        "Month":"3",
+        "Date":"7",
+        "Month":"9",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "StartTime":"09:30 AM",
+        "EndTime":"06:40 PM"
     },
-    "EventVenue":"Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
-    "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-    "EventWebsite":"https://iwd.gdgjalandhar.com/",
-    "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
-    "FBEventPageURL":"s"
+    "EventVenue":"RIT Magic Center, 300 Lomb Memorial Dr, Rochester",
+    "EventVenueMapLink":"https://goo.gl/maps/evncHtxeSZzzhHMH9",
+    "EventWebsite":"https://www.gdgRochester.com/",
+    "EventDescription":"GDG DevFests are large, community-run events that can offer speaker sessions across multiple product areas, workshops, code-labs, and more.",
+    "MeetupLink":"https://www.meetup.com/GDG-Rochester/events/262710495/",
+    "RegistrationLink":"https://gdgrochester.explara.com/e/devfest",
+    "FBEventPageURL":"https://www.facebook.com/events/2416975651720973/"
 }
-
