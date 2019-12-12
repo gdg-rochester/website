@@ -16,6 +16,11 @@
         "img":"jetbrains.png"
     },
     {
+        "name":"O'Reilly",
+        "link":"https://www.oreilly.com/",
+        "img":"orly.jpg"
+    },
+    {
         "name":"Postman",
         "link":"https://www.getpostman.com/",
         "img":"pm-logo-vert.jpg"
